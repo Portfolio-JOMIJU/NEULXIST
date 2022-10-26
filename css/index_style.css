@@ -450,6 +450,9 @@ header {
     0%{left: 0;}
     100%{left: -100%;}
 }
+.n_video video{
+    width: 100%;
+}
 
 /*아이콘*/
 .icon{
