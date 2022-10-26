@@ -832,6 +832,9 @@ Footer a{
     .story_inner p{
         margin-bottom: 10px;
     }
+    .top img{
+        width: 33px;
+    }
 }
 
 @media (max-width:435px){
