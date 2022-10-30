@@ -762,6 +762,12 @@ Footer a{
         width: 100%;
         padding-bottom: 10px
     }
+    .slide .swiper-button-next{
+        display: none;
+    }
+    .slide .swiper-button-prev{
+        display: none;
+    }
 }
 
 @media (max-width:680px){
@@ -827,12 +833,7 @@ Footer a{
     .kb{
         padding-top: 14px;
     }
-    .slide .swiper-button-next{
-        display: none;
-    }
-    .slide .swiper-button-prev{
-        display: none;
-    }
+    
     .story_inner p{
         margin-bottom: 10px;
     }
